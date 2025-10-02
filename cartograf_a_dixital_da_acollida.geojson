@@ -774,5 +774,20 @@
       },
       "id": "0Z5Ez"
     }
+    {
+       "type": "Feature",
+      "geometry": {
+         "coordinates": [
+           -7.563491,
+          43.002711
+        ],
+         "type": "Point"
+      },
+      "properties": {
+        "name": "Albergue Roots & Boots Lugo - La Cervecería",
+         "description": "Hospedaje de peregrinos y bar. Alejandra (muy guay) lo regenta."
+       },
+       "id": "ZjZFM"
+     }
   ]
 }
