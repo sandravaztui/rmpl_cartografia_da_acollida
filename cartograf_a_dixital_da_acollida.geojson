@@ -4,6 +4,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "coordinates": [
+          -7.563491,
+          43.002711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Albergue Roots & Boots Lugo - La Cervecería",
+        "description": "Hospedaje de peregrinos y bar. Alejandra (muy guay) lo regenta.",
+        "category": "4",
+        "ref_person": "Alejandra",
+        "comment": "Hospedaje de peregrinos y bar. Alejandra (muy guay) lo regenta."
+      },
+      "id": "ZjZFM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -7.5514105,
@@ -26,7 +44,9 @@
         "locality": "Lugo",
         "street": "Rúa San Roque",
         "state": "Galicia",
-        "county": "Lugo"
+        "county": "Lugo",
+        "description": "Música e tempo de calidade das persoas que antenden no espazo\n",
+        "comment": "Música e tempo de calidade das persoas que antenden no espazo"
       },
       "id": "S2sKQ"
     },
@@ -41,7 +61,10 @@
       },
       "properties": {
         "category": "1,2,4,5",
-        "name": "Asociación de Inmigrantes y Retornados Rioplatenses"
+        "name": "Asociación de Inmigrantes y Retornados Rioplatenses",
+        "description": "Xunta de personaxes entrañables\n",
+        "comment": "Xunta de personaxes entrañables",
+        "ref_person": "Ana"
       },
       "id": "bK1vT"
     },
@@ -71,9 +94,46 @@
       },
       "properties": {
         "category": "2",
-        "name": "Café Ateneo"
+        "name": "Café Ateneo",
+        "description": "Encontro de migrantes e bar multicultural\n",
+        "comment": "Encontro de migrantes e bar multicultural"
       },
       "id": "vKmL5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.546182232952033,
+          42.99250189999999
+        ]
+      },
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 1263368633,
+        "osm_key": "amenity",
+        "osm_value": "university",
+        "type": "house",
+        "postcode": "27002",
+        "countrycode": "ES",
+        "name": "Campus Terra",
+        "country": "Spain",
+        "city": "Lugo",
+        "district": "Fingoi",
+        "locality": "Lugo",
+        "street": "Barrio Fingoi de Abaixo",
+        "state": "Galicia",
+        "county": "Lugo",
+        "extent": [
+          -7.5512873,
+          42.9949974,
+          -7.5415732,
+          42.9901206
+        ],
+        "category": "1,2,3,5"
+      },
+      "id": "qmGx5"
     },
     {
       "type": "Feature",
@@ -107,7 +167,9 @@
           43.0102361,
           -7.5574419,
           43.0100594
-        ]
+        ],
+        "description": "Axuda, impulsos, axuda económica, de bienes, aloxamento, información\n",
+        "comment": "Axuda, impulsos, axuda económica, de bienes, aloxamento, información"
       },
       "id": "IcjjF"
     },
@@ -222,7 +284,9 @@
         "locality": "Lugo",
         "street": "Rúa dos Paxariños",
         "state": "Galicia",
-        "county": "Lugo"
+        "county": "Lugo",
+        "description": "Punto de reunión cultural e musical. Asisten moitos migrantes\n",
+        "comment": "Punto de reunión cultural e musical. Asisten moitos migrantes"
       },
       "id": "fZ0qv"
     },
@@ -400,7 +464,10 @@
         "locality": "Lugo",
         "street": "Avenida da Coruña",
         "state": "Galicia",
-        "county": "Lugo"
+        "county": "Lugo",
+        "description": "Pizza e empanadas. Eduardo é o rexente e uruguaio\n",
+        "comment": "Pizza e empanadas. Eduardo é o rexente e uruguaio",
+        "ref_person": "Eduardo"
       },
       "id": "SVkBj"
     },
@@ -479,7 +546,9 @@
       },
       "properties": {
         "category": "4",
-        "name": "Foto Castro"
+        "name": "Foto Castro",
+        "description": "Espazo amigable. Traballa con moitos migrantes (fotos carnet). Axudas xerais\n",
+        "comment": "Espazo amigable. Traballa con moitos migrantes (fotos carnet). Axudas xerais"
       },
       "id": "3bEK0"
     },
@@ -511,6 +580,21 @@
         "county": "Lugo"
       },
       "id": "uItck"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -7.533376,
+          42.994133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Horta urbana",
+        "category": "5"
+      },
+      "id": "l9Bak"
     },
     {
       "type": "Feature",
@@ -606,7 +690,8 @@
         "contact:phone": "[[tel:+34982297195|982 297 195]]",
         "contact:email": "[[mailto:vellocarcere@lugo.gal|vellocarcere@lugo.gal]]",
         "description": "*O Centro Sociocultural O Vello Cárcere funciona, a día de hoxe, como un espazo de lembranza cara o seu pasado histórico e de escaparate para as distintas disciplinas artísticas que enchen as celas de vida para toda persoa que se achegue a visitalas.*\n\n{{https://ovellocarceredelugo.gal/wp-content/uploads/2022/02/FOTO-2.jpeg}}",
-        "opening_hours": "Luns a Venres: 11h – 14h / 16h – 20h <br> Sábado: 11h – 14h / 16h – 20h<br> Domingo: 11h – 14h / 16h – 19h"
+        "opening_hours": "Luns a Venres: 11h – 14h / 16h – 20h <br> Sábado: 11h – 14h / 16h – 20h<br> Domingo: 11h – 14h / 16h – 19h",
+        "comment": "Punto de encontro e espazo cultural de moitas comunidades migrantes"
       },
       "id": "m4Nsb"
     },
@@ -621,7 +706,9 @@
       },
       "properties": {
         "category": "1,2",
-        "name": "Oxeito"
+        "name": "Oxeito",
+        "description": "Música e baile tradicional. Folclore. Un espazo para coñecer persoas locais dun xeito seguro e integrado\n",
+        "comment": "Música e baile tradicional. Folclore. Un espazo para coñecer persoas locais dun xeito seguro e integrado"
       },
       "id": "1RPX4"
     },
@@ -656,7 +743,10 @@
           43.0122234,
           -7.5584139,
           43.011279
-        ]
+        ],
+        "description": "Espazo de encontro, asesoramiento e compañamento. Persoas ás  que pódese recorrer con trato amable\n",
+        "comment": "Espazo de encontro, asesoramiento e compañamento. Persoas ás  que pódese recorrer con trato amable",
+        "ref_person": "Encarna, Raquel, Ángeles, Matías."
       },
       "id": "vIUQr"
     },
@@ -713,56 +803,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.546182232952033,
-          42.99250189999999
-        ]
-      },
-      "properties": {
-        "osm_type": "W",
-        "osm_id": 1263368633,
-        "osm_key": "amenity",
-        "osm_value": "university",
-        "type": "house",
-        "postcode": "27002",
-        "countrycode": "ES",
-        "name": "Campus Terra",
-        "country": "Spain",
-        "city": "Lugo",
-        "district": "Fingoi",
-        "locality": "Lugo",
-        "street": "Barrio Fingoi de Abaixo",
-        "state": "Galicia",
-        "county": "Lugo",
-        "extent": [
-          -7.5512873,
-          42.9949974,
-          -7.5415732,
-          42.9901206
-        ],
-        "category": "1,2,3,5"
-      },
-      "id": "qmGx5"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -7.533376,
-          42.994133
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "name": "Horta urbana",
-        "category": "5"
-      },
-      "id": "l9Bak"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "coordinates": [
           -7.568719,
           43.012416
@@ -773,21 +813,6 @@
         "name": "Suministros Médicos Clínicos"
       },
       "id": "0Z5Ez"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -7.563491,
-          43.002711
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "name": "Albergue Roots & Boots Lugo - La Cervecería",
-        "description": "Hospedaje de peregrinos y bar. Alejandra (muy guay) lo regenta."
-      },
-      "id": "ZjZFM"
     }
   ]
 }
