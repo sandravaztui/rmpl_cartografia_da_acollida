@@ -15,7 +15,7 @@
         "description": "Hospedaxe de peregrinos e bar. Alejandra (xenial) o rexenta.",
         "category": "4",
         "ref_person": "Alejandra",
-        "comment": "Hospedaxe de peregrinos e bar. Alejandra (xenial) o rexenta."
+        "comment": "Hospedaje de peregrinos y bar. Alejandra (muy guay) lo regenta."
       },
       "id": "ZjZFM"
     },
@@ -562,7 +562,7 @@
         ]
       },
       "properties": {
-        "category": "1",
+        "category": "4",
         "osm_type": "N",
         "osm_id": 11920629998,
         "osm_key": "shop",
@@ -577,7 +577,8 @@
         "locality": "Lugo",
         "street": "Ronda das Fontiñas",
         "state": "Galicia",
-        "county": "Lugo"
+        "county": "Lugo",
+        "comment": "Aquí hai cortes arxentinos en carne de tenreira"
       },
       "id": "uItck"
     },
@@ -813,6 +814,180 @@
         "name": "Suministros Médicos Clínicos"
       },
       "id": "0Z5Ez"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.554679663170518,
+          43.01209955
+        ]
+      },
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 308819639,
+        "osm_key": "amenity",
+        "osm_value": "parking",
+        "type": "house",
+        "postcode": "27001",
+        "countrycode": "ES",
+        "name": "Aparcadoiro Ánxel Fole",
+        "country": "Spain",
+        "city": "Lugo",
+        "district": "Casco Vello",
+        "locality": "Lugo",
+        "street": "Roman City Walls",
+        "state": "Galicia",
+        "county": "Lugo",
+        "extent": [
+          -7.5551431,
+          43.0124265,
+          -7.5542932,
+          43.0117484
+        ],
+        "comment": "Ofrecen moita axuda ás persoas con discapacidades",
+        "category": "5"
+      },
+      "id": "NvqYf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5537092,
+          43.0045056
+        ]
+      },
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 3133146969,
+        "osm_key": "amenity",
+        "osm_value": "library",
+        "type": "house",
+        "postcode": "27002",
+        "countrycode": "ES",
+        "name": "Biblioteca Pública",
+        "country": "Spain",
+        "city": "Lugo",
+        "district": "Recatelo",
+        "locality": "Lugo",
+        "street": "Avenida de Ramón Ferreiro",
+        "state": "Galicia",
+        "county": "Lugo",
+        "category": "2"
+      },
+      "id": "5Kqjf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -7.5656,
+          43.016841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Carnicería Halal",
+        "comment": "Aquí hai cortes de carne ao uso do halal",
+        "category": "4"
+      },
+      "id": "21Ujw"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -7.558508,
+          43.011863
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Churrería La Modernita",
+        "comment": "Lugar amigable. Boa charla, bo café e churros",
+        "category": "4",
+        "ref_person": "Jaime e familia (Cuba)"
+      },
+      "id": "950AY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5566597,
+          43.0065267
+        ]
+      },
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 12345995328,
+        "osm_key": "amenity",
+        "osm_value": "school",
+        "type": "house",
+        "postcode": "27002",
+        "countrycode": "ES",
+        "name": "Instituto de Educación Secundaria Lucus Augusti",
+        "country": "Spain",
+        "city": "Lugo",
+        "district": "Recatelo",
+        "locality": "Lugo",
+        "street": "Avenida de Rodríguez Mourelo",
+        "state": "Galicia",
+        "county": "Lugo",
+        "comment": "Un instituto suponse que e un espazo seguro que protexe ao menores. Este IES en concreto realiza os cursos de galego para adultos",
+        "category": "1"
+      },
+      "id": "q8ad8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -7.557902,
+          43.005296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Rexistro Civil",
+        "comment": "No rexistro civil hai unha persoa funcionaria moi empática e que trata moi ben ás persoas que van alí con dudas",
+        "category": "1,4"
+      },
+      "id": "ZYcjz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5518789,
+          43.0084335
+        ]
+      },
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 4314998097,
+        "osm_key": "shop",
+        "osm_value": "clothes",
+        "type": "house",
+        "postcode": "27002",
+        "countrycode": "ES",
+        "name": "Rescate",
+        "country": "Spain",
+        "city": "Lugo",
+        "district": "San Roque",
+        "locality": "Lugo",
+        "street": "Rúa das Hermanitas",
+        "state": "Galicia",
+        "county": "Lugo",
+        "category": "5",
+        "comment": "Tenda solidaria sen ánimo de lucro. Chicos moi amables e danche cousas para amoblar de 2ª man"
+      },
+      "id": "1vhZy"
     }
   ]
 }
