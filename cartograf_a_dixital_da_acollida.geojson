@@ -15,7 +15,8 @@
         "name": "Asociación de Inmigrantes y Retornados Rioplatenses",
         "description": "Xunta de personaxes entrañables\n",
         "comment": "Xunta de personaxes entrañables",
-        "ref_person": "Ana"
+        "ref_person": "Ana",
+        "layer_name": "1"
       },
       "id": "bK1vT"
     },
@@ -30,7 +31,8 @@
       },
       "properties": {
         "category": "4",
-        "name": "Banco de alimentos de Lugo"
+        "name": "Banco de alimentos de Lugo",
+        "layer_name": "1"
       },
       "id": "jbwXZ"
     },
@@ -47,7 +49,8 @@
         "category": "2",
         "name": "Café Ateneo",
         "description": "Encontro de migrantes e bar multicultural\n",
-        "comment": "Encontro de migrantes e bar multicultural"
+        "comment": "Encontro de migrantes e bar multicultural",
+        "layer_name": "1"
       },
       "id": "vKmL5"
     },
@@ -79,7 +82,8 @@
         "state": "Galicia",
         "county": "Lugo",
         "description": "Punto de reunión cultural e musical. Asisten moitos migrantes\n",
-        "comment": "Punto de reunión cultural e musical. Asisten moitos migrantes"
+        "comment": "Punto de reunión cultural e musical. Asisten moitos migrantes",
+        "layer_name": "1"
       },
       "id": "fZ0qv"
     },
@@ -94,7 +98,8 @@
       },
       "properties": {
         "category": "1",
-        "name": "Craft&Tea"
+        "name": "Craft&Tea",
+        "layer_name": "1"
       },
       "id": "ou96r"
     },
@@ -129,7 +134,8 @@
           43.000526,
           -7.5488762,
           43.0003381
-        ]
+        ],
+        "layer_name": "1"
       },
       "id": "XdGjt"
     },
@@ -167,7 +173,8 @@
         ],
         "description": "Espazo de encontro, asesoramiento e compañamento. Persoas ás  que pódese recorrer con trato amable\n",
         "comment": "Espazo de encontro, asesoramiento e compañamento. Persoas ás  que pódese recorrer con trato amable",
-        "ref_person": "Encarna, Raquel, Ángeles, Matías."
+        "ref_person": "Encarna, Raquel, Ángeles, Matías.",
+        "layer_name": "1"
       },
       "id": "vIUQr"
     },
@@ -198,7 +205,8 @@
         "state": "Galicia",
         "county": "Lugo",
         "description": "Música e tempo de calidade das persoas que antenden no espazo\n",
-        "comment": "Música e tempo de calidade das persoas que antenden no espazo"
+        "comment": "Música e tempo de calidade das persoas que antenden no espazo",
+        "layer_name": "2"
       },
       "id": "S2sKQ"
     },
@@ -227,7 +235,8 @@
         "street": "Avenida de Ramón Ferreiro",
         "state": "Galicia",
         "county": "Lugo",
-        "category": "2"
+        "category": "2",
+        "layer_name": "2"
       },
       "id": "5Kqjf"
     },
@@ -262,7 +271,8 @@
           42.9999202,
           -7.5458266,
           42.9995466
-        ]
+        ],
+        "layer_name": "2"
       },
       "id": "XXj4b"
     },
@@ -279,7 +289,8 @@
         "category": "4",
         "name": "Foto Castro",
         "description": "Espazo amigable. Traballa con moitos migrantes (fotos carnet). Axudas xerais\n",
-        "comment": "Espazo amigable. Traballa con moitos migrantes (fotos carnet). Axudas xerais"
+        "comment": "Espazo amigable. Traballa con moitos migrantes (fotos carnet). Axudas xerais",
+        "layer_name": "2"
       },
       "id": "3bEK0"
     },
@@ -294,7 +305,8 @@
       },
       "properties": {
         "name": "Horta urbana",
-        "category": "5"
+        "category": "5",
+        "layer_name": "2"
       },
       "id": "l9Bak"
     },
@@ -327,7 +339,8 @@
         "category": "1",
         "_umap_options": {
           "color": "White"
-        }
+        },
+        "layer_name": "2"
       },
       "id": "q8ad8"
     },
@@ -345,7 +358,8 @@
         "description": "Hospedaxe de peregrinos e bar. Alejandra (xenial) o rexenta.",
         "category": "4",
         "ref_person": "Alejandra",
-        "comment": "Hospedaje de peregrinos y bar. Alejandra (muy guay) lo regenta."
+        "comment": "Hospedaje de peregrinos y bar. Alejandra (muy guay) lo regenta.",
+        "layer_name": "3"
       },
       "id": "ZjZFM"
     },
@@ -381,7 +395,8 @@
           43.0117484
         ],
         "comment": "Ofrecen moita axuda ás persoas con discapacidades",
-        "category": "5"
+        "category": "5",
+        "layer_name": "3"
       },
       "id": "NvqYf"
     },
@@ -416,7 +431,8 @@
           -7.5415732,
           42.9901206
         ],
-        "category": "1,2,3,5"
+        "category": "1,2,3,5",
+        "layer_name": "3"
       },
       "id": "qmGx5"
     },
@@ -454,7 +470,8 @@
           43.0100594
         ],
         "description": "Axuda, impulsos, axuda económica, de bienes, aloxamento, información\n",
-        "comment": "Axuda, impulsos, axuda económica, de bienes, aloxamento, información"
+        "comment": "Axuda, impulsos, axuda económica, de bienes, aloxamento, información",
+        "layer_name": "3"
       },
       "id": "IcjjF"
     },
@@ -470,7 +487,8 @@
       "properties": {
         "name": "Carnicería Halal",
         "comment": "Aquí hai cortes de carne ao uso do halal",
-        "category": "4"
+        "category": "4",
+        "layer_name": "3"
       },
       "id": "21Ujw"
     },
@@ -505,7 +523,8 @@
           43.0220773,
           -7.5638501,
           43.0218886
-        ]
+        ],
+        "layer_name": "3"
       },
       "id": "PRx3J"
     },
@@ -540,7 +559,8 @@
           42.9988641,
           -7.5445806,
           42.9985434
-        ]
+        ],
+        "layer_name": "3"
       },
       "id": "o4lDo"
     },
@@ -555,7 +575,8 @@
       },
       "properties": {
         "category": "1,2,3,4,5",
-        "name": "Casa María Mariño de las asociaciones"
+        "name": "Casa María Mariño de las asociaciones",
+        "layer_name": "3"
       },
       "id": "AYI6G"
     },
@@ -572,7 +593,8 @@
         "name": "Churrería La Modernita",
         "comment": "Lugar amigable. Boa charla, bo café e churros",
         "category": "4",
-        "ref_person": "Jaime e familia (Cuba)"
+        "ref_person": "Jaime e familia (Cuba)",
+        "layer_name": "3"
       },
       "id": "950AY"
     },
@@ -601,7 +623,8 @@
         "locality": "Cidade Norte",
         "street": "Praza Viana do Castelo",
         "state": "Galicia",
-        "county": "Lugo"
+        "county": "Lugo",
+        "layer_name": "3"
       },
       "id": "tl6SJ"
     },
@@ -636,7 +659,8 @@
           42.9997003,
           -7.5463232,
           42.999171
-        ]
+        ],
+        "layer_name": "3"
       },
       "id": "pvYDx"
     },
@@ -668,7 +692,8 @@
         "county": "Lugo",
         "description": "Pizza e empanadas. Eduardo é o rexente e uruguaio\n",
         "comment": "Pizza e empanadas. Eduardo é o rexente e uruguaio",
-        "ref_person": "Eduardo"
+        "ref_person": "Eduardo",
+        "layer_name": "3"
       },
       "id": "SVkBj"
     },
@@ -703,7 +728,8 @@
           43.0001556,
           -7.5453107,
           42.9997528
-        ]
+        ],
+        "layer_name": "3"
       },
       "id": "4R9MH"
     },
@@ -732,7 +758,8 @@
         "locality": "Lugo",
         "street": "Rúa da Baixa",
         "state": "Galicia",
-        "county": "Lugo"
+        "county": "Lugo",
+        "layer_name": "3"
       },
       "id": "E5YrM"
     },
@@ -762,7 +789,8 @@
         "street": "Ronda das Fontiñas",
         "state": "Galicia",
         "county": "Lugo",
-        "comment": "Aquí hai cortes arxentinos en carne de tenreira"
+        "comment": "Aquí hai cortes arxentinos en carne de tenreira",
+        "layer_name": "3"
       },
       "id": "uItck"
     },
@@ -777,7 +805,8 @@
       },
       "properties": {
         "category": "4,5",
-        "name": "Juan soñador"
+        "name": "Juan soñador",
+        "layer_name": "3"
       },
       "id": "rTUV3"
     },
@@ -806,7 +835,8 @@
         "locality": "Lugo",
         "street": "Roman City Walls",
         "state": "Galicia",
-        "county": "Lugo"
+        "county": "Lugo",
+        "layer_name": "3"
       },
       "id": "BLP53"
     },
@@ -821,7 +851,8 @@
       },
       "properties": {
         "category": "5",
-        "name": "Madia Leva"
+        "name": "Madia Leva",
+        "layer_name": "3"
       },
       "id": "yJmYR"
     },
@@ -860,7 +891,8 @@
         "contact:email": "[[mailto:vellocarcere@lugo.gal|vellocarcere@lugo.gal]]",
         "description": "*O Centro Sociocultural O Vello Cárcere funciona, a día de hoxe, como un espazo de lembranza cara o seu pasado histórico e de escaparate para as distintas disciplinas artísticas que enchen as celas de vida para toda persoa que se achegue a visitalas.*\n\n{{https://ovellocarceredelugo.gal/wp-content/uploads/2022/02/FOTO-2.jpeg}}",
         "opening_hours": "Luns a Venres: 11h – 14h / 16h – 20h <br> Sábado: 11h – 14h / 16h – 20h<br> Domingo: 11h – 14h / 16h – 19h",
-        "comment": "Punto de encontro e espazo cultural de moitas comunidades migrantes"
+        "comment": "Punto de encontro e espazo cultural de moitas comunidades migrantes",
+        "layer_name": "3"
       },
       "id": "m4Nsb"
     },
@@ -877,7 +909,8 @@
         "category": "1,2",
         "name": "Oxeito",
         "description": "Música e baile tradicional. Folclore. Un espazo para coñecer persoas locais dun xeito seguro e integrado\n",
-        "comment": "Música e baile tradicional. Folclore. Un espazo para coñecer persoas locais dun xeito seguro e integrado"
+        "comment": "Música e baile tradicional. Folclore. Un espazo para coñecer persoas locais dun xeito seguro e integrado",
+        "layer_name": "3"
       },
       "id": "1RPX4"
     },
@@ -907,7 +940,8 @@
         "state": "Galicia",
         "county": "Lugo",
         "category": "5",
-        "comment": "Tenda solidaria sen ánimo de lucro. Chicos moi amables e danche cousas para amoblar de 2ª man"
+        "comment": "Tenda solidaria sen ánimo de lucro. Chicos moi amables e danche cousas para amoblar de 2ª man",
+        "layer_name": "3"
       },
       "id": "1vhZy"
     },
@@ -923,7 +957,8 @@
       "properties": {
         "name": "Rexistro Civil",
         "comment": "No rexistro civil hai unha persoa funcionaria moi empática e que trata moi ben ás persoas que van alí con dudas",
-        "category": "1,4"
+        "category": "1,4",
+        "layer_name": "3"
       },
       "id": "ZYcjz"
     },
@@ -958,7 +993,8 @@
           -7.5599888,
           43.0125751
         ],
-        "description": "Rúa dos viños"
+        "description": "Rúa dos viños",
+        "layer_name": "3"
       },
       "id": "MJsp1"
     },
@@ -973,7 +1009,8 @@
       },
       "properties": {
         "category": "1",
-        "name": "Solaina"
+        "name": "Solaina",
+        "layer_name": "3"
       },
       "id": "I6QnO"
     },
@@ -987,7 +1024,8 @@
         "type": "Point"
       },
       "properties": {
-        "name": "Suministros Médicos Clínicos"
+        "name": "Suministros Médicos Clínicos",
+        "layer_name": "3"
       },
       "id": "0Z5Ez"
     }
