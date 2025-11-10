@@ -23,89 +23,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "coordinates": [
-          -7.561442,
-          43.046215
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "4",
-        "name": "Banco de alimentos de Lugo",
-        "layer_name": "3"
-      },
-      "id": "jbwXZ"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -7.5594,
-          43.00693
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "2",
-        "name": "Café Ateneo",
-        "description": "Encontro de migrantes e bar multicultural\n",
-        "comment": "Encontro de migrantes e bar multicultural",
-        "layer_name": "1"
-      },
-      "id": "vKmL5"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.5511142,
-          43.0099687
-        ]
-      },
-      "properties": {
-        "category": "4",
-        "osm_type": "N",
-        "osm_id": 1536963618,
-        "osm_key": "amenity",
-        "osm_value": "bar",
-        "type": "house",
-        "postcode": "27002",
-        "housenumber": "23",
-        "countrycode": "ES",
-        "name": "Club Clavicembalo",
-        "country": "Spain",
-        "city": "Lugo",
-        "district": "San Roque",
-        "locality": "Lugo",
-        "street": "Rúa dos Paxariños",
-        "state": "Galicia",
-        "county": "Lugo",
-        "description": "Punto de reunión cultural e musical. Asisten moitos migrantes\n",
-        "comment": "Punto de reunión cultural e musical. Asisten moitos migrantes",
-        "layer_name": "1"
-      },
-      "id": "fZ0qv"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -7.560667,
-          43.014503
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "1",
-        "name": "Craft&Tea",
-        "layer_name": "1"
-      },
-      "id": "ou96r"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "type": "Point",
         "coordinates": [
           -7.549028231342841,
@@ -183,6 +100,133 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -7.557622586109609,
+          43.010130149999995
+        ]
+      },
+      "properties": {
+        "category": "4",
+        "osm_type": "W",
+        "osm_id": 308602217,
+        "osm_key": "amenity",
+        "osm_value": "social_facility",
+        "type": "house",
+        "postcode": "27001",
+        "housenumber": "1 bis",
+        "countrycode": "ES",
+        "name": "Caritas",
+        "country": "Spain",
+        "city": "Lugo",
+        "district": "Casco Vello",
+        "locality": "Lugo",
+        "street": "Rúa da Cruz",
+        "state": "Galicia",
+        "county": "Lugo",
+        "extent": [
+          -7.5577904,
+          43.0102361,
+          -7.5574419,
+          43.0100594
+        ],
+        "description": "Axuda, impulsos, axuda económica, de bienes, aloxamento, información\n",
+        "comment": "Axuda, impulsos, axuda económica, de bienes, aloxamento, información",
+        "layer_name": 1
+      },
+      "id": "IcjjF"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.546182232952033,
+          42.99250189999999
+        ]
+      },
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 1263368633,
+        "osm_key": "amenity",
+        "osm_value": "university",
+        "type": "house",
+        "postcode": "27002",
+        "countrycode": "ES",
+        "name": "Campus Terra",
+        "country": "Spain",
+        "city": "Lugo",
+        "district": "Fingoi",
+        "locality": "Lugo",
+        "street": "Barrio Fingoi de Abaixo",
+        "state": "Galicia",
+        "county": "Lugo",
+        "extent": [
+          -7.5512873,
+          42.9949974,
+          -7.5415732,
+          42.9901206
+        ],
+        "category": "1,2,3,5",
+        "layer_name": 1
+      },
+      "id": "qmGx5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -7.533376,
+          42.994133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Horta urbana",
+        "category": "5",
+        "layer_name": 1
+      },
+      "id": "l9Bak"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.544851926384853,
+          42.9987084
+        ]
+      },
+      "properties": {
+        "category": "1",
+        "osm_type": "W",
+        "osm_id": 382219257,
+        "osm_key": "amenity",
+        "osm_value": "community_centre",
+        "type": "house",
+        "postcode": "27002",
+        "countrycode": "ES",
+        "name": "Casa da Xuventude",
+        "country": "Spain",
+        "city": "Lugo",
+        "district": "Montirón",
+        "locality": "As Pedreiras",
+        "street": "Rúa Xesús Bal y Gay",
+        "state": "Galicia",
+        "county": "Lugo",
+        "extent": [
+          -7.5450701,
+          42.9988641,
+          -7.5445806,
+          42.9985434
+        ],
+        "layer_name": 1
+      },
+      "id": "o4lDo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.5514105,
           43.0066858
         ]
@@ -206,9 +250,179 @@
         "county": "Lugo",
         "description": "Música e tempo de calidade das persoas que antenden no espazo\n",
         "comment": "Música e tempo de calidade das persoas que antenden no espazo",
-        "layer_name": "2"
+        "layer_name": 1
       },
       "id": "S2sKQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -7.554643,
+          43.008189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "category": "1,5",
+        "osm_type": "N",
+        "osm_id": 5084131821,
+        "osm_key": "amenity",
+        "osm_value": "community_centre",
+        "type": "house",
+        "postcode": "27001",
+        "countrycode": "ES",
+        "name": "O Vello Cárcere",
+        "country": "Spain",
+        "city": "Lugo",
+        "district": "San Roque",
+        "locality": "Lugo",
+        "street": "Rúa Soto Freire",
+        "state": "Galicia",
+        "county": "Lugo",
+        "_umap_options": {
+          "iconClass": "Drop",
+          "color": "White"
+        },
+        "contact:website": "https://ovellocarceredelugo.gal/",
+        "contact:phone": "[[tel:+34982297195|982 297 195]]",
+        "contact:email": "[[mailto:vellocarcere@lugo.gal|vellocarcere@lugo.gal]]",
+        "description": "*O Centro Sociocultural O Vello Cárcere funciona, a día de hoxe, como un espazo de lembranza cara o seu pasado histórico e de escaparate para as distintas disciplinas artísticas que enchen as celas de vida para toda persoa que se achegue a visitalas.*\n\n{{https://ovellocarceredelugo.gal/wp-content/uploads/2022/02/FOTO-2.jpeg}}",
+        "opening_hours": "Luns a Venres: 11h – 14h / 16h – 20h <br> Sábado: 11h – 14h / 16h – 20h<br> Domingo: 11h – 14h / 16h – 19h",
+        "comment": "Punto de encontro e espazo cultural de moitas comunidades migrantes",
+        "layer_name": 1
+      },
+      "id": "m4Nsb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5566597,
+          43.0065267
+        ]
+      },
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 12345995328,
+        "osm_key": "amenity",
+        "osm_value": "school",
+        "type": "house",
+        "postcode": "27002",
+        "countrycode": "ES",
+        "name": "Instituto de Educación Secundaria Lucus Augusti",
+        "country": "Spain",
+        "city": "Lugo",
+        "district": "Recatelo",
+        "locality": "Lugo",
+        "street": "Avenida de Rodríguez Mourelo",
+        "state": "Galicia",
+        "county": "Lugo",
+        "comment": "Un instituto suponse que e un espazo seguro que protexe ao menores. Este IES en concreto realiza os cursos de galego para adultos",
+        "category": "1",
+        "_umap_options": {
+          "color": "White"
+        },
+        "layer_name": 1
+      },
+      "id": "q8ad8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -7.557902,
+          43.005296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Rexistro Civil",
+        "comment": "No rexistro civil hai unha persoa funcionaria moi empática e que trata moi ben ás persoas que van alí con dudas",
+        "category": "1,4",
+        "layer_name": 1
+      },
+      "id": "ZYcjz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -7.568719,
+          43.012416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Suministros Médicos Clínicos",
+        "layer_name": 1
+      },
+      "id": "0Z5Ez"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -7.561442,
+          43.046215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "category": "4",
+        "name": "Banco de alimentos de Lugo",
+        "layer_name": 1
+      },
+      "id": "jbwXZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -7.564082,
+          43.010531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "category": "1,4",
+        "osm_type": "N",
+        "osm_id": 7316708069,
+        "osm_key": "amenity",
+        "osm_value": "social_facility",
+        "type": "house",
+        "postcode": "27004",
+        "countrycode": "ES",
+        "name": "Fogar do Transeúnte",
+        "country": "Spain",
+        "city": "Lugo",
+        "district": "O Carme",
+        "locality": "Lugo",
+        "street": "Rúa da Baixa",
+        "state": "Galicia",
+        "county": "Lugo",
+        "layer_name": 1
+      },
+      "id": "E5YrM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -7.547951,
+          43.011143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "category": "1,2",
+        "name": "Oxeito",
+        "description": "Música e baile tradicional. Folclore. Un espazo para coñecer persoas locais dun xeito seguro e integrado\n",
+        "comment": "Música e baile tradicional. Folclore. Un espazo para coñecer persoas locais dun xeito seguro e integrado",
+        "layer_name": 1
+      },
+      "id": "1RPX4"
     },
     {
       "type": "Feature",
@@ -236,9 +450,149 @@
         "state": "Galicia",
         "county": "Lugo",
         "category": "2",
-        "layer_name": "2"
+        "layer_name": 1
       },
       "id": "5Kqjf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -7.564277,
+          43.02231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "category": "1,2,3,4,5",
+        "name": "Casa María Mariño de las asociaciones",
+        "layer_name": 1
+      },
+      "id": "AYI6G"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -7.562907,
+          43.018623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "category": "4,5",
+        "name": "Juan soñador",
+        "layer_name": 1
+      },
+      "id": "rTUV3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.563982719266763,
+          43.0219814
+        ]
+      },
+      "properties": {
+        "category": "1",
+        "osm_type": "W",
+        "osm_id": 373054526,
+        "osm_key": "building",
+        "osm_value": "yes",
+        "type": "house",
+        "postcode": "27003",
+        "countrycode": "ES",
+        "name": "Casa da Muller",
+        "country": "Spain",
+        "city": "Lugo",
+        "district": "A Milagrosa",
+        "locality": "Cidade Norte",
+        "street": "Avenida da Coruña",
+        "state": "Galicia",
+        "county": "Lugo",
+        "extent": [
+          -7.5641236,
+          43.0220773,
+          -7.5638501,
+          43.0218886
+        ],
+        "layer_name": 1
+      },
+      "id": "PRx3J"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.560258221424663,
+          43.013239521403854
+        ]
+      },
+      "properties": {
+        "category": "3",
+        "osm_type": "W",
+        "osm_id": 81645137,
+        "osm_key": "highway",
+        "osm_value": "pedestrian",
+        "type": "street",
+        "postcode": "27001",
+        "countrycode": "ES",
+        "name": "Rúa Nova",
+        "country": "Spain",
+        "city": "Lugo",
+        "district": "Casco Vello",
+        "locality": "Lugo",
+        "state": "Galicia",
+        "county": "Lugo",
+        "extent": [
+          -7.5605441,
+          43.0138968,
+          -7.5599888,
+          43.0125751
+        ],
+        "description": "Rúa dos viños",
+        "layer_name": 1
+      },
+      "id": "MJsp1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.545622587972142,
+          42.9999497
+        ]
+      },
+      "properties": {
+        "category": "1,3",
+        "osm_type": "W",
+        "osm_id": 864983078,
+        "osm_key": "amenity",
+        "osm_value": "language_school",
+        "type": "house",
+        "postcode": "27002",
+        "countrycode": "ES",
+        "name": "Escola Oficial de Idiomas de Lugo",
+        "country": "Spain",
+        "city": "Lugo",
+        "district": "Montirón",
+        "locality": "As Pedreiras",
+        "street": "Rúa Xesús Bal y Gay",
+        "state": "Galicia",
+        "county": "Lugo",
+        "extent": [
+          -7.5459169,
+          43.0001556,
+          -7.5453107,
+          42.9997528
+        ],
+        "layer_name": 2
+      },
+      "id": "4R9MH"
     },
     {
       "type": "Feature",
@@ -272,77 +626,188 @@
           -7.5458266,
           42.9995466
         ],
-        "layer_name": "2"
+        "layer_name": 2
       },
       "id": "XXj4b"
     },
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -7.548511,
-          43.008119
-        ],
-        "type": "Point"
+          -7.5467520282801015,
+          42.999437400000005
+        ]
       },
       "properties": {
-        "category": "4",
-        "name": "Foto Castro",
-        "description": "Espazo amigable. Traballa con moitos migrantes (fotos carnet). Axudas xerais\n",
-        "comment": "Espazo amigable. Traballa con moitos migrantes (fotos carnet). Axudas xerais",
-        "layer_name": "2"
-      },
-      "id": "3bEK0"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -7.533376,
-          42.994133
+        "category": "1,3",
+        "osm_type": "W",
+        "osm_id": 864983076,
+        "osm_key": "amenity",
+        "osm_value": "music_school",
+        "type": "house",
+        "postcode": "27002",
+        "countrycode": "ES",
+        "name": "Conservatorio de Música Profesional Xoán Montes",
+        "country": "Spain",
+        "city": "Lugo",
+        "district": "Montirón",
+        "locality": "As Pedreiras",
+        "street": "Ronda Xosé Castiñeira",
+        "state": "Galicia",
+        "county": "Lugo",
+        "extent": [
+          -7.5471614,
+          42.9997003,
+          -7.5463232,
+          42.999171
         ],
-        "type": "Point"
+        "layer_name": 2
       },
-      "properties": {
-        "name": "Horta urbana",
-        "category": "5",
-        "layer_name": "2"
-      },
-      "id": "l9Bak"
+      "id": "pvYDx"
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.5566597,
-          43.0065267
+          -7.5547878,
+          43.0093336
         ]
       },
       "properties": {
+        "category": "3",
         "osm_type": "N",
-        "osm_id": 12345995328,
-        "osm_key": "amenity",
-        "osm_value": "school",
+        "osm_id": 13098732592,
+        "osm_key": "shop",
+        "osm_value": "books",
         "type": "house",
-        "postcode": "27002",
+        "postcode": "27001",
         "countrycode": "ES",
-        "name": "Instituto de Educación Secundaria Lucus Augusti",
+        "name": "Lectocosmos",
         "country": "Spain",
         "city": "Lugo",
-        "district": "Recatelo",
+        "district": "Casco Vello",
         "locality": "Lugo",
-        "street": "Avenida de Rodríguez Mourelo",
+        "street": "Roman City Walls",
         "state": "Galicia",
         "county": "Lugo",
-        "comment": "Un instituto suponse que e un espazo seguro que protexe ao menores. Este IES en concreto realiza os cursos de galego para adultos",
-        "category": "1",
-        "_umap_options": {
-          "color": "White"
-        },
-        "layer_name": "2"
+        "layer_name": 2
       },
-      "id": "q8ad8"
+      "id": "BLP53"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5511142,
+          43.0099687
+        ]
+      },
+      "properties": {
+        "category": "4",
+        "osm_type": "N",
+        "osm_id": 1536963618,
+        "osm_key": "amenity",
+        "osm_value": "bar",
+        "type": "house",
+        "postcode": "27002",
+        "housenumber": "23",
+        "countrycode": "ES",
+        "name": "Club Clavicembalo",
+        "country": "Spain",
+        "city": "Lugo",
+        "district": "San Roque",
+        "locality": "Lugo",
+        "street": "Rúa dos Paxariños",
+        "state": "Galicia",
+        "county": "Lugo",
+        "description": "Punto de reunión cultural e musical. Asisten moitos migrantes\n",
+        "comment": "Punto de reunión cultural e musical. Asisten moitos migrantes",
+        "layer_name": 2
+      },
+      "id": "fZ0qv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -7.5594,
+          43.00693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "category": "2",
+        "name": "Café Ateneo",
+        "description": "Encontro de migrantes e bar multicultural\n",
+        "comment": "Encontro de migrantes e bar multicultural",
+        "layer_name": 2
+      },
+      "id": "vKmL5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -7.557977,
+          43.015556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "category": "5",
+        "name": "Madia Leva",
+        "layer_name": 2
+      },
+      "id": "yJmYR"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -7.56376,
+          43.017415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "category": "1",
+        "name": "Solaina",
+        "layer_name": 2
+      },
+      "id": "I6QnO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5663896,
+          43.023052
+        ]
+      },
+      "properties": {
+        "category": "3",
+        "osm_type": "N",
+        "osm_id": 6206167562,
+        "osm_key": "amenity",
+        "osm_value": "cinema",
+        "type": "house",
+        "postcode": "27003",
+        "countrycode": "ES",
+        "name": "Codex Cinema",
+        "country": "Spain",
+        "city": "Lugo",
+        "district": "A Piringalla",
+        "locality": "Cidade Norte",
+        "street": "Praza Viana do Castelo",
+        "state": "Galicia",
+        "county": "Lugo",
+        "layer_name": 2
+      },
+      "id": "tl6SJ"
     },
     {
       "type": "Feature",
@@ -403,81 +868,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.546182232952033,
-          42.99250189999999
-        ]
-      },
-      "properties": {
-        "osm_type": "W",
-        "osm_id": 1263368633,
-        "osm_key": "amenity",
-        "osm_value": "university",
-        "type": "house",
-        "postcode": "27002",
-        "countrycode": "ES",
-        "name": "Campus Terra",
-        "country": "Spain",
-        "city": "Lugo",
-        "district": "Fingoi",
-        "locality": "Lugo",
-        "street": "Barrio Fingoi de Abaixo",
-        "state": "Galicia",
-        "county": "Lugo",
-        "extent": [
-          -7.5512873,
-          42.9949974,
-          -7.5415732,
-          42.9901206
-        ],
-        "category": "1,2,3,5",
-        "layer_name": "3"
-      },
-      "id": "qmGx5"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.557622586109609,
-          43.010130149999995
-        ]
-      },
-      "properties": {
-        "category": "4",
-        "osm_type": "W",
-        "osm_id": 308602217,
-        "osm_key": "amenity",
-        "osm_value": "social_facility",
-        "type": "house",
-        "postcode": "27001",
-        "housenumber": "1 bis",
-        "countrycode": "ES",
-        "name": "Caritas",
-        "country": "Spain",
-        "city": "Lugo",
-        "district": "Casco Vello",
-        "locality": "Lugo",
-        "street": "Rúa da Cruz",
-        "state": "Galicia",
-        "county": "Lugo",
-        "extent": [
-          -7.5577904,
-          43.0102361,
-          -7.5574419,
-          43.0100594
-        ],
-        "description": "Axuda, impulsos, axuda económica, de bienes, aloxamento, información\n",
-        "comment": "Axuda, impulsos, axuda económica, de bienes, aloxamento, información",
-        "layer_name": "3"
-      },
-      "id": "IcjjF"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "coordinates": [
           -7.5656,
           43.016841
@@ -491,94 +881,6 @@
         "layer_name": "3"
       },
       "id": "21Ujw"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.563982719266763,
-          43.0219814
-        ]
-      },
-      "properties": {
-        "category": "1",
-        "osm_type": "W",
-        "osm_id": 373054526,
-        "osm_key": "building",
-        "osm_value": "yes",
-        "type": "house",
-        "postcode": "27003",
-        "countrycode": "ES",
-        "name": "Casa da Muller",
-        "country": "Spain",
-        "city": "Lugo",
-        "district": "A Milagrosa",
-        "locality": "Cidade Norte",
-        "street": "Avenida da Coruña",
-        "state": "Galicia",
-        "county": "Lugo",
-        "extent": [
-          -7.5641236,
-          43.0220773,
-          -7.5638501,
-          43.0218886
-        ],
-        "layer_name": "3"
-      },
-      "id": "PRx3J"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.544851926384853,
-          42.9987084
-        ]
-      },
-      "properties": {
-        "category": "1",
-        "osm_type": "W",
-        "osm_id": 382219257,
-        "osm_key": "amenity",
-        "osm_value": "community_centre",
-        "type": "house",
-        "postcode": "27002",
-        "countrycode": "ES",
-        "name": "Casa da Xuventude",
-        "country": "Spain",
-        "city": "Lugo",
-        "district": "Montirón",
-        "locality": "As Pedreiras",
-        "street": "Rúa Xesús Bal y Gay",
-        "state": "Galicia",
-        "county": "Lugo",
-        "extent": [
-          -7.5450701,
-          42.9988641,
-          -7.5445806,
-          42.9985434
-        ],
-        "layer_name": "3"
-      },
-      "id": "o4lDo"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -7.564277,
-          43.02231
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "1,2,3,4,5",
-        "name": "Casa María Mariño de las asociaciones",
-        "layer_name": "3"
-      },
-      "id": "AYI6G"
     },
     {
       "type": "Feature",
@@ -597,72 +899,6 @@
         "layer_name": "3"
       },
       "id": "950AY"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.5663896,
-          43.023052
-        ]
-      },
-      "properties": {
-        "category": "3",
-        "osm_type": "N",
-        "osm_id": 6206167562,
-        "osm_key": "amenity",
-        "osm_value": "cinema",
-        "type": "house",
-        "postcode": "27003",
-        "countrycode": "ES",
-        "name": "Codex Cinema",
-        "country": "Spain",
-        "city": "Lugo",
-        "district": "A Piringalla",
-        "locality": "Cidade Norte",
-        "street": "Praza Viana do Castelo",
-        "state": "Galicia",
-        "county": "Lugo",
-        "layer_name": "3"
-      },
-      "id": "tl6SJ"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.5467520282801015,
-          42.999437400000005
-        ]
-      },
-      "properties": {
-        "category": "1,3",
-        "osm_type": "W",
-        "osm_id": 864983076,
-        "osm_key": "amenity",
-        "osm_value": "music_school",
-        "type": "house",
-        "postcode": "27002",
-        "countrycode": "ES",
-        "name": "Conservatorio de Música Profesional Xoán Montes",
-        "country": "Spain",
-        "city": "Lugo",
-        "district": "Montirón",
-        "locality": "As Pedreiras",
-        "street": "Ronda Xosé Castiñeira",
-        "state": "Galicia",
-        "county": "Lugo",
-        "extent": [
-          -7.5471614,
-          42.9997003,
-          -7.5463232,
-          42.999171
-        ],
-        "layer_name": "3"
-      },
-      "id": "pvYDx"
     },
     {
       "type": "Feature",
@@ -702,72 +938,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.545622587972142,
-          42.9999497
-        ]
-      },
-      "properties": {
-        "category": "1,3",
-        "osm_type": "W",
-        "osm_id": 864983078,
-        "osm_key": "amenity",
-        "osm_value": "language_school",
-        "type": "house",
-        "postcode": "27002",
-        "countrycode": "ES",
-        "name": "Escola Oficial de Idiomas de Lugo",
-        "country": "Spain",
-        "city": "Lugo",
-        "district": "Montirón",
-        "locality": "As Pedreiras",
-        "street": "Rúa Xesús Bal y Gay",
-        "state": "Galicia",
-        "county": "Lugo",
-        "extent": [
-          -7.5459169,
-          43.0001556,
-          -7.5453107,
-          42.9997528
-        ],
-        "layer_name": "3"
-      },
-      "id": "4R9MH"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.5640842,
-          43.0105274
-        ]
-      },
-      "properties": {
-        "category": "1,4",
-        "osm_type": "N",
-        "osm_id": 7316708069,
-        "osm_key": "amenity",
-        "osm_value": "social_facility",
-        "type": "house",
-        "postcode": "27004",
-        "countrycode": "ES",
-        "name": "Fogar do Transeúnte",
-        "country": "Spain",
-        "city": "Lugo",
-        "district": "O Carme",
-        "locality": "Lugo",
-        "street": "Rúa da Baixa",
-        "state": "Galicia",
-        "county": "Lugo",
-        "layer_name": "3"
-      },
-      "id": "E5YrM"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.5488553,
           43.0112472
         ]
@@ -793,126 +963,6 @@
         "layer_name": "3"
       },
       "id": "uItck"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -7.562907,
-          43.018623
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "4,5",
-        "name": "Juan soñador",
-        "layer_name": "3"
-      },
-      "id": "rTUV3"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.5547878,
-          43.0093336
-        ]
-      },
-      "properties": {
-        "category": "3",
-        "osm_type": "N",
-        "osm_id": 13098732592,
-        "osm_key": "shop",
-        "osm_value": "books",
-        "type": "house",
-        "postcode": "27001",
-        "countrycode": "ES",
-        "name": "Lectocosmos",
-        "country": "Spain",
-        "city": "Lugo",
-        "district": "Casco Vello",
-        "locality": "Lugo",
-        "street": "Roman City Walls",
-        "state": "Galicia",
-        "county": "Lugo",
-        "layer_name": "3"
-      },
-      "id": "BLP53"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -7.557977,
-          43.015556
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "5",
-        "name": "Madia Leva",
-        "layer_name": "3"
-      },
-      "id": "yJmYR"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -7.554643,
-          43.008189
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "1,5",
-        "osm_type": "N",
-        "osm_id": 5084131821,
-        "osm_key": "amenity",
-        "osm_value": "community_centre",
-        "type": "house",
-        "postcode": "27001",
-        "countrycode": "ES",
-        "name": "O Vello Cárcere",
-        "country": "Spain",
-        "city": "Lugo",
-        "district": "San Roque",
-        "locality": "Lugo",
-        "street": "Rúa Soto Freire",
-        "state": "Galicia",
-        "county": "Lugo",
-        "_umap_options": {
-          "iconClass": "Drop",
-          "color": "White"
-        },
-        "contact:website": "https://ovellocarceredelugo.gal/",
-        "contact:phone": "[[tel:+34982297195|982 297 195]]",
-        "contact:email": "[[mailto:vellocarcere@lugo.gal|vellocarcere@lugo.gal]]",
-        "description": "*O Centro Sociocultural O Vello Cárcere funciona, a día de hoxe, como un espazo de lembranza cara o seu pasado histórico e de escaparate para as distintas disciplinas artísticas que enchen as celas de vida para toda persoa que se achegue a visitalas.*\n\n{{https://ovellocarceredelugo.gal/wp-content/uploads/2022/02/FOTO-2.jpeg}}",
-        "opening_hours": "Luns a Venres: 11h – 14h / 16h – 20h <br> Sábado: 11h – 14h / 16h – 20h<br> Domingo: 11h – 14h / 16h – 19h",
-        "comment": "Punto de encontro e espazo cultural de moitas comunidades migrantes",
-        "layer_name": "3"
-      },
-      "id": "m4Nsb"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -7.547951,
-          43.011143
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "1,2",
-        "name": "Oxeito",
-        "description": "Música e baile tradicional. Folclore. Un espazo para coñecer persoas locais dun xeito seguro e integrado\n",
-        "comment": "Música e baile tradicional. Folclore. Un espazo para coñecer persoas locais dun xeito seguro e integrado",
-        "layer_name": "3"
-      },
-      "id": "1RPX4"
     },
     {
       "type": "Feature",
@@ -949,85 +999,35 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -7.557902,
-          43.005296
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "name": "Rexistro Civil",
-        "comment": "No rexistro civil hai unha persoa funcionaria moi empática e que trata moi ben ás persoas que van alí con dudas",
-        "category": "1,4",
-        "layer_name": "3"
-      },
-      "id": "ZYcjz"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.560258221424663,
-          43.013239521403854
-        ]
-      },
-      "properties": {
-        "category": "3",
-        "osm_type": "W",
-        "osm_id": 81645137,
-        "osm_key": "highway",
-        "osm_value": "pedestrian",
-        "type": "street",
-        "postcode": "27001",
-        "countrycode": "ES",
-        "name": "Rúa Nova",
-        "country": "Spain",
-        "city": "Lugo",
-        "district": "Casco Vello",
-        "locality": "Lugo",
-        "state": "Galicia",
-        "county": "Lugo",
-        "extent": [
-          -7.5605441,
-          43.0138968,
-          -7.5599888,
-          43.0125751
-        ],
-        "description": "Rúa dos viños",
-        "layer_name": "3"
-      },
-      "id": "MJsp1"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -7.56376,
-          43.017415
+          -7.560667,
+          43.014503
         ],
         "type": "Point"
       },
       "properties": {
         "category": "1",
-        "name": "Solaina",
-        "layer_name": "3"
+        "name": "Craft&Tea",
+        "layer_name": 3
       },
-      "id": "I6QnO"
+      "id": "ou96r"
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -7.568719,
-          43.012416
+          -7.548511,
+          43.008119
         ],
         "type": "Point"
       },
       "properties": {
-        "name": "Suministros Médicos Clínicos",
-        "layer_name": "3"
+        "category": "4",
+        "name": "Foto Castro",
+        "description": "Espazo amigable. Traballa con moitos migrantes (fotos carnet). Axudas xerais\n",
+        "comment": "Espazo amigable. Traballa con moitos migrantes (fotos carnet). Axudas xerais",
+        "layer_name": 3
       },
-      "id": "0Z5Ez"
+      "id": "3bEK0"
     }
   ]
 }
