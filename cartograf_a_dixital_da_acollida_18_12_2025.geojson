@@ -34,7 +34,7 @@
           43.011279
         ],
         "description": "*Cada vez que entras, nada máis pasar a porta, danche a benvida. Todas as persoas que traballan na Rede saúdanche cun sorriso e é un lugar de acollida que rompe barreiras. O Museo son as persoas que traballan nel. Como Rosana, Nacho, Simón, Raquel, Ángeles, Estefanía, Encarna,...e moitas máis. Todas nós formamos parte da súa comunidade.*",
-        "comment": "Espazo de encontro, asesoramiento e compañamento. Persoas ás  que pódese recorrer con trato amable",
+        "comment": "Cada vez que entras, nada máis pasar a porta, danche a benvida. Todas as persoas que traballan na Rede saúdanche cun sorriso e é un lugar de acollida que rompe barreiras. O Museo son as persoas que traballan nel. Como Rosana, Nacho, Simón, Raquel, Ángeles, Estefanía, Encarna,...e moitas máis. Todas nós formamos parte da súa comunidade.",
         "ref_person": "Encarna, Raquel, Ángeles, Matías.",
         "layer_name": "1"
       },
@@ -53,7 +53,8 @@
         "category": "1,2,3,4,5",
         "name": "Casa María Mariño de las asociaciones",
         "layer_name": 1,
-        "description": "*É un espazo de referencia para moitas persoas en Lugo, pola cantidade de colectivos que teñen nel a súa casa: Concepción Arenal , Adace, Corazóns Artesáns, Reiki , Enfermos crónicos,   Venezolanos en Lugo, Bonhomía, Somos unidos por el Cáncer, Améis, Liga Reumatolóxica, Capaces e a asociación de inmigrantes e retornados Rioplatenses.*\n*Esta última entidade é referente na acollida humana e no acompañamento de quen chega por primeira vez, no coidado das persoas e na dinamización intercultural da cidade.*"
+        "description": "*É un espazo de referencia para moitas persoas en Lugo, pola cantidade de colectivos que teñen nel a súa casa: Concepción Arenal , Adace, Corazóns Artesáns, Reiki , Enfermos crónicos,   Venezolanos en Lugo, Bonhomía, Somos unidos por el Cáncer, Améis, Liga Reumatolóxica, Capaces e a asociación de inmigrantes e retornados Rioplatenses.*\n*Esta última entidade é referente na acollida humana e no acompañamento de quen chega por primeira vez, no coidado das persoas e na dinamización intercultural da cidade.*",
+        "comment": "É un espazo de referencia para moitas persoas en Lugo, pola cantidade de colectivos que teñen nel a súa casa: Concepción Arenal, Adace, Corazóns Artesáns, Reiki, Enfermos crónicos, Venezolanos en Lugo, Bonhomía, Somos unidos por el Cáncer, Améis, Liga Reumatolóxica, Capaces e a asociación de inmigrantes e retornados Rioplatenses. Esta última entidade é referente na acollida humana e no acompañamento de quen chega por primeira vez, no coidado das persoas e na dinamización intercultural da cidade."
       },
       "id": "AYI6G"
     },
@@ -68,7 +69,7 @@
       },
       "properties": {
         "name": "Carnicería Halal",
-        "comment": "Aquí hai cortes de carne ao uso do halal",
+        "comment": "Salah e Ahmed levan tempo á fronte desta carnicería, que vende carne halal; é dicir, adecuada para as persoas musulmanas, o que non significa que persoas non musulmanas non a poidan mercar e consumir. Pero non só iso: nesta carnicería hai outros produtos que forman parte da gastronomía de moitos países árabes. Por iso, sexas de onde sexas, se che gusta algo da súa tradición culinaria é un lugar ao que ir e no que sempre serás ben recibido.",
         "category": "4",
         "description": "*Salah e Ahmed levan tempo á fronte desta carnicería, que vende carne halal; é dicir, adecuada para as persoas musulmanas, o que non significa que persoas non musulmanas non a poidan mercar e consumir. Pero non só iso: nesta carnicería hai outros produtos que forman parte da gastronomía de moitos países árabes. Por iso, sexas de onde sexas, se che gusta algo da súa tradición culinaria é un lugar ao que ir e no que sempre serás ben recibido.*",
         "layer_name": "1"
@@ -101,7 +102,8 @@
         "state": "Galicia",
         "county": "Lugo",
         "layer_name": "1",
-        "description": "*Este é un local emblemático do centro histórico da cidade. Rexentado por persoas cubanas, ofrece traballo a compatriotas e trata con agarimo a todo o mundo. Unha merenda en Pepe's significa compartir espazo (e delicioso chocolate con churros) con persoas de todas as idades e moi probablemente ter unha conversa con alguén, porque é deses lugares nos que todo o mundo se coñece. E no que as persoas que están á fronte del non esquecen nunca ser acolledores con quen entra pola porta.*"
+        "description": "*Este é un local emblemático do centro histórico da cidade. Rexentado por persoas cubanas, ofrece traballo a compatriotas e trata con agarimo a todo o mundo. Unha merenda en Pepe's significa compartir espazo (e delicioso chocolate con churros) con persoas de todas as idades e moi probablemente ter unha conversa con alguén, porque é deses lugares nos que todo o mundo se coñece. E no que as persoas que están á fronte del non esquecen nunca ser acolledores con quen entra pola porta.*",
+        "comment": "Este é un local emblemático do centro histórico da cidade. Rexentado por persoas cubanas, ofrece traballo a compatriotas e trata con agarimo a todo o mundo. Unha merenda en Pepe's significa compartir espazo (e delicioso chocolate con churros) con persoas de todas as idades e moi probablemente ter unha conversa con alguén, porque é deses lugares nos que todo o mundo se coñece. E no que as persoas que están á fronte del non esquecen nunca ser acolledores con quen entra pola porta."
       },
       "id": "BrIYL"
     },
@@ -338,7 +340,8 @@
         "state": "Galicia",
         "county": "Lugo",
         "description": "*Entrei con algo de présa e con moita fame un día no que non tiña moito ánimo. A idea era coller algo para levar, pero foron tan agradables que quedei alí a comer e saín con ganas de volver.*",
-        "layer_name": "2"
+        "layer_name": "2",
+        "comment": "Entrei con algo de présa e con moita fame un día no que non tiña moito ánimo. A idea era coller algo para levar, pero foron tan agradables que quedei alí a comer e saín con ganas de volver."
       },
       "id": "07hec"
     },
