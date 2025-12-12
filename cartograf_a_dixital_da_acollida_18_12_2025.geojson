@@ -70,8 +70,8 @@
         "name": "Carnicería Halal",
         "comment": "Aquí hai cortes de carne ao uso do halal",
         "category": "4",
-        "layer_name": "3",
-        "description": "*Salah e Ahmed levan tempo á fronte desta carnicería, que vende carne halal; é dicir, adecuada para as persoas musulmanas, o que non significa que persoas non musulmanas non a poidan mercar e consumir. Pero non só iso: nesta carnicería hai outros produtos que forman parte da gastronomía de moitos países árabes. Por iso, sexas de onde sexas, se che gusta algo da súa tradición culinaria é un lugar ao que ir e no que sempre serás ben recibido.*"
+        "description": "*Salah e Ahmed levan tempo á fronte desta carnicería, que vende carne halal; é dicir, adecuada para as persoas musulmanas, o que non significa que persoas non musulmanas non a poidan mercar e consumir. Pero non só iso: nesta carnicería hai outros produtos que forman parte da gastronomía de moitos países árabes. Por iso, sexas de onde sexas, se che gusta algo da súa tradición culinaria é un lugar ao que ir e no que sempre serás ben recibido.*",
+        "layer_name": "1"
       },
       "id": "21Ujw"
     },
@@ -167,7 +167,7 @@
         "description": "Pizza e empanadas. Eduardo é o rexente e uruguaio\n",
         "comment": "Pizza e empanadas. Eduardo é o rexente e uruguaio",
         "ref_person": "Eduardo",
-        "layer_name": "3"
+        "layer_name": "2"
       },
       "id": "SVkBj"
     },
@@ -189,8 +189,8 @@
           -7.5488762,
           43.0003381
         ],
-        "layer_name": "1",
-        "ref_person": "Fernando"
+        "ref_person": "Fernando",
+        "layer_name": "2"
       },
       "id": "XdGjt"
     },
@@ -206,7 +206,7 @@
       "properties": {
         "name": "Horta urbana | Hortas do Rato",
         "category": "5",
-        "layer_name": 1
+        "layer_name": "2"
       },
       "id": "l9Bak"
     },
@@ -222,7 +222,7 @@
       "properties": {
         "category": "4,5",
         "name": "Juan soñador",
-        "layer_name": 1
+        "layer_name": "2"
       },
       "id": "rTUV3"
     },
@@ -262,7 +262,7 @@
         "description": "*É un lugar de apoio e inclusión, ademais de representar a loita polos dereitos sociais. Hai moitos meses, cando poucas entidades se significaban públicamente, no Vello Cárcere non dubidaron en colgar a bandeira palestina en contra do xenocidio. E é un espazo no que propoñer, co-crear e desenvolver actividades.*\n\n{{https://ovellocarceredelugo.gal/wp-content/uploads/2022/02/FOTO-2.jpeg}}",
         "opening_hours": "Luns a Venres: 11h – 14h / 16h – 20h <br> Sábado: 11h – 14h / 16h – 20h<br> Domingo: 11h – 14h / 16h – 19h",
         "comment": "É un lugar de apoio e inclusión, ademais de representar a loita polos dereitos sociais. Hai moitos meses, cando poucas entidades se significaban públicamente, no Vello Cárcere non dubidaron en colgar a bandeira palestina en contra do xenocidio. E é un espazo no que propoñer, co-crear e desenvolver actividades.",
-        "layer_name": 1
+        "layer_name": "2"
       },
       "id": "m4Nsb"
     },
@@ -411,7 +411,7 @@
         "county": "Lugo",
         "description": "Punto de reunión cultural e musical. Asisten moitos migrantes\n",
         "comment": "Punto de reunión cultural e musical. Asisten moitos migrantes",
-        "layer_name": 2
+        "layer_name": "3"
       },
       "id": "fZ0qv"
     },
@@ -441,7 +441,7 @@
         "street": "Praza Viana do Castelo",
         "state": "Galicia",
         "county": "Lugo",
-        "layer_name": 2
+        "layer_name": "3"
       },
       "id": "tl6SJ"
     },
@@ -477,7 +477,7 @@
           -7.5463232,
           42.999171
         ],
-        "layer_name": 2
+        "layer_name": "3"
       },
       "id": "pvYDx"
     },
@@ -513,7 +513,7 @@
           -7.5458266,
           42.9995466
         ],
-        "layer_name": 2
+        "layer_name": "3"
       },
       "id": "XXj4b"
     },
@@ -549,7 +549,7 @@
           -7.5453107,
           42.9997528
         ],
-        "layer_name": 2
+        "layer_name": "3"
       },
       "id": "4R9MH"
     },
@@ -579,7 +579,7 @@
         "street": "Roman City Walls",
         "state": "Galicia",
         "county": "Lugo",
-        "layer_name": 2
+        "layer_name": "3"
       },
       "id": "BLP53"
     },
@@ -595,7 +595,7 @@
       "properties": {
         "category": "5",
         "name": "Madia Leva",
-        "layer_name": 2
+        "layer_name": "3"
       },
       "id": "yJmYR"
     },
@@ -611,7 +611,7 @@
       "properties": {
         "category": "1",
         "name": "Solaina",
-        "layer_name": 2
+        "layer_name": "3"
       },
       "id": "I6QnO"
     },
@@ -813,7 +813,7 @@
         "county": "Lugo",
         "description": "Música e tempo de calidade das persoas que antenden no espazo\n",
         "comment": "Música e tempo de calidade das persoas que antenden no espazo",
-        "layer_name": 1
+        "layer_name": "3"
       },
       "id": "S2sKQ"
     },
@@ -829,7 +829,7 @@
       "properties": {
         "category": "4",
         "name": "Banco de alimentos de Lugo",
-        "layer_name": 1
+        "layer_name": "3"
       },
       "id": "jbwXZ"
     },
@@ -859,7 +859,7 @@
         "state": "Galicia",
         "county": "Lugo",
         "category": "2",
-        "layer_name": 1
+        "layer_name": "3"
       },
       "id": "5Kqjf"
     },
@@ -895,7 +895,7 @@
           42.9901206
         ],
         "category": "1,2,3,5",
-        "layer_name": 1
+        "layer_name": "3"
       },
       "id": "qmGx5"
     },
@@ -931,7 +931,7 @@
           -7.5638501,
           43.0218886
         ],
-        "layer_name": 1
+        "layer_name": "3"
       },
       "id": "PRx3J"
     },
@@ -967,7 +967,7 @@
           -7.5445806,
           42.9985434
         ],
-        "layer_name": 1
+        "layer_name": "3"
       },
       "id": "o4lDo"
     },
@@ -997,7 +997,7 @@
         "street": "Rúa da Baixa",
         "state": "Galicia",
         "county": "Lugo",
-        "layer_name": 1
+        "layer_name": "3"
       },
       "id": "E5YrM"
     },
@@ -1031,7 +1031,7 @@
         "_umap_options": {
           "color": "White"
         },
-        "layer_name": 1
+        "layer_name": "3"
       },
       "id": "q8ad8"
     },
@@ -1049,7 +1049,7 @@
         "name": "Oxeito",
         "description": "Música e baile tradicional. Folclore. Un espazo para coñecer persoas locais dun xeito seguro e integrado\n",
         "comment": "Música e baile tradicional. Folclore. Un espazo para coñecer persoas locais dun xeito seguro e integrado",
-        "layer_name": 1
+        "layer_name": "3"
       },
       "id": "1RPX4"
     },
@@ -1066,7 +1066,7 @@
         "name": "Rexistro Civil",
         "comment": "No rexistro civil hai unha persoa funcionaria moi empática e que trata moi ben ás persoas que van alí con dudas",
         "category": "1,4",
-        "layer_name": 1
+        "layer_name": "3"
       },
       "id": "ZYcjz"
     },
@@ -1102,7 +1102,7 @@
           43.0125751
         ],
         "description": "Rúa dos viños",
-        "layer_name": 1
+        "layer_name": "3"
       },
       "id": "MJsp1"
     },
@@ -1117,7 +1117,7 @@
       },
       "properties": {
         "name": "Suministros Médicos Clínicos",
-        "layer_name": 1
+        "layer_name": "3"
       },
       "id": "0Z5Ez"
     },
@@ -1136,7 +1136,7 @@
         "description": "Xunta de personaxes entrañables\n",
         "comment": "Xunta de personaxes entrañables",
         "ref_person": "Ana",
-        "layer_name": "1"
+        "layer_name": "3"
       },
       "id": "bK1vT"
     }
