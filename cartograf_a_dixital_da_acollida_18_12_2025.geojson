@@ -27,7 +27,8 @@
         "state": "Galicia",
         "county": "Lugo",
         "layer_name": "1",
-        "description": "Este é un local emblemático do centro histórico da cidade. Rexentado por persoas cubanas, ofrece traballo a compatriotas e trata con agarimo a todo o mundo. Unha merenda en Pepe's significa compartir espazo (e delicioso chocolate con churros) con persoas de todas as idades e moi probablemente ter unha conversa con alguén, porque é deses lugares nos que todo o mundo se coñece. E no que as persoas que están á fronte del non esquecen nunca ser acolledores con quen entra pola porta."
+        "description": "Este é un local emblemático do centro histórico da cidade. Rexentado por persoas cubanas, ofrece traballo a compatriotas e trata con agarimo a todo o mundo. Unha merenda en Pepe's significa compartir espazo (e delicioso chocolate con churros) con persoas de todas as idades e moi probablemente ter unha conversa con alguén, porque é deses lugares nos que todo o mundo se coñece. E no que as persoas que están á fronte del non esquecen nunca ser acolledores con quen entra pola porta.",
+        "itinerary_order": "3"
       },
       "id": "BrIYL"
     },
@@ -44,7 +45,8 @@
         "name": "Carnicería Halal",
         "category": "4",
         "description": "Salah e Ahmed levan tempo á fronte desta carnicería, que vende carne halal; é dicir, adecuada para as persoas musulmanas, o que non significa que persoas non musulmanas non a poidan mercar e consumir. Pero non só iso: nesta carnicería hai outros produtos que forman parte da gastronomía de moitos países árabes. Por iso, sexas de onde sexas, se che gusta algo da súa tradición culinaria é un lugar ao que ir e no que sempre serás ben recibido.",
-        "layer_name": "1"
+        "layer_name": "1",
+        "itinerary_order": "2"
       },
       "id": "21Ujw"
     },
@@ -61,7 +63,8 @@
         "category": "1,2,3,4,5",
         "name": "Casa María Mariño de las Asociaciones",
         "layer_name": 1,
-        "description": "É un espazo de referencia para moitas persoas en Lugo, pola cantidade de colectivos que teñen nel a súa casa: Concepción Arenal, Adace, Corazóns Artesáns, Reiki, Enfermos crónicos, Venezolanos en Lugo, Bonhomía, Somos unidos por el Cáncer, Améis, Liga Reumatolóxica, Capaces e a asociación de inmigrantes e retornados Rioplatenses.\nEsta última entidade é referente na acollida humana e no acompañamento de quen chega por primeira vez, no coidado das persoas e na dinamización intercultural da cidade."
+        "description": "É un espazo de referencia para moitas persoas en Lugo, pola cantidade de colectivos que teñen nel a súa casa: Concepción Arenal, Adace, Corazóns Artesáns, Reiki, Enfermos crónicos, Venezolanos en Lugo, Bonhomía, Somos unidos por el Cáncer, Améis, Liga Reumatolóxica, Capaces e a asociación de inmigrantes e retornados Rioplatenses.\nEsta última entidade é referente na acollida humana e no acompañamento de quen chega por primeira vez, no coidado das persoas e na dinamización intercultural da cidade.",
+        "itinerary_order": "1"
       },
       "id": "AYI6G"
     },
@@ -98,7 +101,8 @@
           43.011279
         ],
         "description": "Cada vez que entras, nada máis pasar a porta, danche a benvida. Todas as persoas que traballan na Rede saúdanche cun sorriso e é un lugar de acollida que rompe barreiras. O Museo son as persoas que traballan nel. Como Rosana, Nacho, Simón, Raquel, Ángeles, Estefanía, Encarna,...e moitas máis. Todas nós formamos parte da súa comunidade.",
-        "layer_name": "1"
+        "layer_name": "1",
+        "itinerary_order": "5"
       },
       "id": "vIUQr"
     },
@@ -114,7 +118,8 @@
       "properties": {
         "layer_name": "1",
         "name": "Mercería Un Amor De Botón",
-        "description": "É unha mercería de toda a vida na que atopar todo o necesario para coser e bordar cun engadido especial: as persoas que traballan nela saben como se lle chama a cada cousa noutros países.  Como se xuntando palabras do galego e doutros idiomas crearan unha linguaxe univeral arredor da costura compartida."
+        "description": "É unha mercería de toda a vida na que atopar todo o necesario para coser e bordar cun engadido especial: as persoas que traballan nela saben como se lle chama a cada cousa noutros países.  Como se xuntando palabras do galego e doutros idiomas crearan unha linguaxe univeral arredor da costura compartida.",
+        "itinerary_order": "4"
       },
       "id": "VklrH"
     },
