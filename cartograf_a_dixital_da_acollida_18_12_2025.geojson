@@ -61,7 +61,7 @@
         "category": "1,2,3,4,5",
         "name": "Casa María Mariño de las Asociaciones",
         "layer_name": 1,
-        "description": "É un espazo de referencia para moitas persoas en Lugo, pola cantidade de colectivos que teñen nel a súa casa: Concepción Arenal , Adace, Corazóns Artesáns, Reiki , Enfermos crónicos,   Venezolanos en Lugo, Bonhomía, Somos unidos por el Cáncer, Améis, Liga Reumatolóxica, Capaces e a asociación de inmigrantes e retornados Rioplatenses.\nEsta última entidade é referente na acollida humana e no acompañamento de quen chega por primeira vez, no coidado das persoas e na dinamización intercultural da cidade."
+        "description": "É un espazo de referencia para moitas persoas en Lugo, pola cantidade de colectivos que teñen nel a súa casa: Concepción Arenal, Adace, Corazóns Artesáns, Reiki, Enfermos crónicos, Venezolanos en Lugo, Bonhomía, Somos unidos por el Cáncer, Améis, Liga Reumatolóxica, Capaces e a asociación de inmigrantes e retornados Rioplatenses.\nEsta última entidade é referente na acollida humana e no acompañamento de quen chega por primeira vez, no coidado das persoas e na dinamización intercultural da cidade."
       },
       "id": "AYI6G"
     },
@@ -113,7 +113,8 @@
       },
       "properties": {
         "layer_name": "1",
-        "name": "Un Amor De Botón"
+        "name": "Mercería Un Amor De Botón",
+        "description": "É unha mercería de toda a vida na que atopar todo o necesario para coser e bordar cun engadido especial: as persoas que traballan nela saben como se lle chama a cada cousa noutros países.  Como se xuntando palabras do galego e doutros idiomas crearan unha linguaxe univeral arredor da costura compartida."
       },
       "id": "VklrH"
     },
@@ -129,7 +130,7 @@
       "properties": {
         "name": "Asociación Aliad Ultreia",
         "layer_name": "2",
-        "description": "A persoa de referencia é Manuel."
+        "description": "Unha asociación da cidade formada por xente acolledora, entre eles Manuel."
       },
       "id": "FIB0g"
     },
@@ -145,7 +146,7 @@
       "properties": {
         "category": "2",
         "name": "Café Ateneo",
-        "description": "Encontro de migrantes e bar multicultural\n",
+        "description": "Este bar é punto de encontro para a comunidade migrante, converténdose nun espazo multicultural e referente da cidade, grazas ás persoas que que o rexentan e á comunidade que se crea nel.",
         "layer_name": 2
       },
       "id": "vKmL5"
@@ -237,7 +238,7 @@
         "street": "Avenida da Coruña",
         "state": "Galicia",
         "county": "Lugo",
-        "description": "Pizza e empanadas. Eduardo é o rexente e uruguaio.",
+        "description": "Especializado en pizzas e empanadas, é o sitio no que quitar a morriña e atopar ledicia gastronómica da man de Eduardo, que veu a Lugo de Uruguai.",
         "layer_name": "2"
       },
       "id": "SVkBj"
@@ -369,7 +370,8 @@
       },
       "properties": {
         "name": "Todo Telas ",
-        "layer_name": "2"
+        "layer_name": "2",
+        "description": "É un lugar no que atoparse as persoas que cosen e que teñen un nome distinto para cada cousa, porque aquí  todas poden entenderse."
       },
       "id": "rVzrM"
     },
