@@ -27,8 +27,7 @@
         "state": "Galicia",
         "county": "Lugo",
         "layer_name": "1",
-        "description": "*Este é un local emblemático do centro histórico da cidade. Rexentado por persoas cubanas, ofrece traballo a compatriotas e trata con agarimo a todo o mundo. Unha merenda en Pepe's significa compartir espazo (e delicioso chocolate con churros) con persoas de todas as idades e moi probablemente ter unha conversa con alguén, porque é deses lugares nos que todo o mundo se coñece. E no que as persoas que están á fronte del non esquecen nunca ser acolledores con quen entra pola porta.*",
-        "comment": "Este é un local emblemático do centro histórico da cidade. Rexentado por persoas cubanas, ofrece traballo a compatriotas e trata con agarimo a todo o mundo. Unha merenda en Pepe's significa compartir espazo (e delicioso chocolate con churros) con persoas de todas as idades e moi probablemente ter unha conversa con alguén, porque é deses lugares nos que todo o mundo se coñece. E no que as persoas que están á fronte del non esquecen nunca ser acolledores con quen entra pola porta."
+        "description": "Este é un local emblemático do centro histórico da cidade. Rexentado por persoas cubanas, ofrece traballo a compatriotas e trata con agarimo a todo o mundo. Unha merenda en Pepe's significa compartir espazo (e delicioso chocolate con churros) con persoas de todas as idades e moi probablemente ter unha conversa con alguén, porque é deses lugares nos que todo o mundo se coñece. E no que as persoas que están á fronte del non esquecen nunca ser acolledores con quen entra pola porta."
       },
       "id": "BrIYL"
     },
@@ -43,9 +42,8 @@
       },
       "properties": {
         "name": "Carnicería Halal",
-        "comment": "Salah e Ahmed levan tempo á fronte desta carnicería, que vende carne halal; é dicir, adecuada para as persoas musulmanas, o que non significa que persoas non musulmanas non a poidan mercar e consumir. Pero non só iso: nesta carnicería hai outros produtos que forman parte da gastronomía de moitos países árabes. Por iso, sexas de onde sexas, se che gusta algo da súa tradición culinaria é un lugar ao que ir e no que sempre serás ben recibido.",
         "category": "4",
-        "description": "*Salah e Ahmed levan tempo á fronte desta carnicería, que vende carne halal; é dicir, adecuada para as persoas musulmanas, o que non significa que persoas non musulmanas non a poidan mercar e consumir. Pero non só iso: nesta carnicería hai outros produtos que forman parte da gastronomía de moitos países árabes. Por iso, sexas de onde sexas, se che gusta algo da súa tradición culinaria é un lugar ao que ir e no que sempre serás ben recibido.*",
+        "description": "Salah e Ahmed levan tempo á fronte desta carnicería, que vende carne halal; é dicir, adecuada para as persoas musulmanas, o que non significa que persoas non musulmanas non a poidan mercar e consumir. Pero non só iso: nesta carnicería hai outros produtos que forman parte da gastronomía de moitos países árabes. Por iso, sexas de onde sexas, se che gusta algo da súa tradición culinaria é un lugar ao que ir e no que sempre serás ben recibido.",
         "layer_name": "1"
       },
       "id": "21Ujw"
@@ -63,8 +61,7 @@
         "category": "1,2,3,4,5",
         "name": "Casa María Mariño de las Asociaciones",
         "layer_name": 1,
-        "description": "*É un espazo de referencia para moitas persoas en Lugo, pola cantidade de colectivos que teñen nel a súa casa: Concepción Arenal , Adace, Corazóns Artesáns, Reiki , Enfermos crónicos,   Venezolanos en Lugo, Bonhomía, Somos unidos por el Cáncer, Améis, Liga Reumatolóxica, Capaces e a asociación de inmigrantes e retornados Rioplatenses.*\n*Esta última entidade é referente na acollida humana e no acompañamento de quen chega por primeira vez, no coidado das persoas e na dinamización intercultural da cidade.*",
-        "comment": "É un espazo de referencia para moitas persoas en Lugo, pola cantidade de colectivos que teñen nel a súa casa: Concepción Arenal, Adace, Corazóns Artesáns, Reiki, Enfermos crónicos, Venezolanos en Lugo, Bonhomía, Somos unidos por el Cáncer, Améis, Liga Reumatolóxica, Capaces e a asociación de inmigrantes e retornados Rioplatenses. Esta última entidade é referente na acollida humana e no acompañamento de quen chega por primeira vez, no coidado das persoas e na dinamización intercultural da cidade."
+        "description": "É un espazo de referencia para moitas persoas en Lugo, pola cantidade de colectivos que teñen nel a súa casa: Concepción Arenal , Adace, Corazóns Artesáns, Reiki , Enfermos crónicos,   Venezolanos en Lugo, Bonhomía, Somos unidos por el Cáncer, Améis, Liga Reumatolóxica, Capaces e a asociación de inmigrantes e retornados Rioplatenses.\nEsta última entidade é referente na acollida humana e no acompañamento de quen chega por primeira vez, no coidado das persoas e na dinamización intercultural da cidade."
       },
       "id": "AYI6G"
     },
@@ -100,8 +97,7 @@
           -7.5584139,
           43.011279
         ],
-        "description": "*Cada vez que entras, nada máis pasar a porta, danche a benvida. Todas as persoas que traballan na Rede saúdanche cun sorriso e é un lugar de acollida que rompe barreiras. O Museo son as persoas que traballan nel. Como Rosana, Nacho, Simón, Raquel, Ángeles, Estefanía, Encarna,...e moitas máis. Todas nós formamos parte da súa comunidade.*",
-        "comment": "Cada vez que entras, nada máis pasar a porta, danche a benvida. Todas as persoas que traballan na Rede saúdanche cun sorriso e é un lugar de acollida que rompe barreiras. O Museo son as persoas que traballan nel. Como Rosana, Nacho, Simón, Raquel, Ángeles, Estefanía, Encarna,...e moitas máis. Todas nós formamos parte da súa comunidade.",
+        "description": "Cada vez que entras, nada máis pasar a porta, danche a benvida. Todas as persoas que traballan na Rede saúdanche cun sorriso e é un lugar de acollida que rompe barreiras. O Museo son as persoas que traballan nel. Como Rosana, Nacho, Simón, Raquel, Ángeles, Estefanía, Encarna,...e moitas máis. Todas nós formamos parte da súa comunidade.",
         "ref_person": "Encarna, Raquel, Ángeles, Matías.",
         "layer_name": "1"
       },
@@ -151,7 +147,6 @@
         "category": "2",
         "name": "Café Ateneo",
         "description": "Encontro de migrantes e bar multicultural\n",
-        "comment": "Encontro de migrantes e bar multicultural",
         "layer_name": 2
       },
       "id": "vKmL5"
@@ -245,7 +240,6 @@
         "state": "Galicia",
         "county": "Lugo",
         "description": "Pizza e empanadas. Eduardo é o rexente e uruguaio\n",
-        "comment": "Pizza e empanadas. Eduardo é o rexente e uruguaio",
         "ref_person": "Eduardo",
         "layer_name": "2"
       },
@@ -323,9 +317,8 @@
         "street": "Roman City Walls",
         "state": "Galicia",
         "county": "Lugo",
-        "description": "*Entrei con algo de présa e con moita fame un día no que non tiña moito ánimo. A idea era coller algo para levar, pero foron tan agradables que quedei alí a comer e saín con ganas de volver.*",
-        "layer_name": "2",
-        "comment": "Entrei con algo de présa e con moita fame un día no que non tiña moito ánimo. A idea era coller algo para levar, pero foron tan agradables que quedei alí a comer e saín con ganas de volver."
+        "description": "Entrei con algo de présa e con moita fame un día no que non tiña moito ánimo. A idea era coller algo para levar, pero foron tan agradables que quedei alí a comer e saín con ganas de volver.",
+        "layer_name": "2"
       },
       "id": "07hec"
     },
@@ -362,9 +355,8 @@
         "contact:website": "https://ovellocarceredelugo.gal/",
         "contact:phone": "[[tel:+34982297195|982 297 195]]",
         "contact:email": "[[mailto:vellocarcere@lugo.gal|vellocarcere@lugo.gal]]",
-        "description": "*É un lugar de apoio e inclusión, ademais de representar a loita polos dereitos sociais. Hai moitos meses, cando poucas entidades se significaban públicamente, no Vello Cárcere non dubidaron en colgar a bandeira palestina en contra do xenocidio. E é un espazo no que propoñer, co-crear e desenvolver actividades.*\n\n{{https://ovellocarceredelugo.gal/wp-content/uploads/2022/02/FOTO-2.jpeg}}",
+        "description": "É un lugar de apoio e inclusión, ademais de representar a loita polos dereitos sociais. Hai moitos meses, cando poucas entidades se significaban públicamente, no Vello Cárcere non dubidaron en colgar a bandeira palestina en contra do xenocidio. E é un espazo no que propoñer, co-crear e desenvolver actividades.",
         "opening_hours": "Luns a Venres: 11h – 14h / 16h – 20h <br> Sábado: 11h – 14h / 16h – 20h<br> Domingo: 11h – 14h / 16h – 19h",
-        "comment": "É un lugar de apoio e inclusión, ademais de representar a loita polos dereitos sociais. Hai moitos meses, cando poucas entidades se significaban públicamente, no Vello Cárcere non dubidaron en colgar a bandeira palestina en contra do xenocidio. E é un espazo no que propoñer, co-crear e desenvolver actividades.",
         "layer_name": "2"
       },
       "id": "m4Nsb"
@@ -410,9 +402,8 @@
         "street": "Ronda das Fontiñas",
         "state": "Galicia",
         "county": "Lugo",
-        "comment": "En Galicia non se corta a carne como en Arxentina. Por iso, atopar unha carnicería en Lugo onde si se corta así fai da compra unha experiencia incluso entrañable.",
         "layer_name": "2",
-        "description": "*En Galicia non se corta a carne como en Arxentina. Por iso, atopar unha carnicería en Lugo onde si se corta así fai da compra unha experiencia incluso entrañable*"
+        "description": "En Galicia non se corta a carne como en Arxentina. Por iso, atopar unha carnicería en Lugo onde si se corta así fai da compra unha experiencia incluso entrañable"
       },
       "id": "uItck"
     },
@@ -429,7 +420,6 @@
         "category": "1,2,4,5",
         "name": "Asociación de Inmigrantes y Retornados Rioplatenses",
         "description": "Xunta de personaxes entrañables\n",
-        "comment": "Xunta de personaxes entrañables",
         "ref_person": "Ana",
         "layer_name": "2"
       },
@@ -449,7 +439,6 @@
         "description": "Hospedaxe de peregrinos e bar. Alejandra (xenial) o rexenta.",
         "category": "4",
         "ref_person": "Alejandra",
-        "comment": "Hospedaje de peregrinos y bar. Alejandra (muy guay) lo regenta.",
         "layer_name": "3"
       },
       "id": "ZjZFM"
@@ -485,9 +474,9 @@
           -7.5542932,
           43.0117484
         ],
-        "comment": "Ofrecen moita axuda ás persoas con discapacidades",
         "category": "5",
-        "layer_name": "3"
+        "layer_name": "3",
+        "description": "Ofrecen moita axuda ás persoas con discapacidades"
       },
       "id": "NvqYf"
     },
@@ -518,7 +507,6 @@
         "state": "Galicia",
         "county": "Lugo",
         "description": "Música e tempo de calidade das persoas que antenden no espazo\n",
-        "comment": "Música e tempo de calidade das persoas que antenden no espazo",
         "layer_name": "3"
       },
       "id": "S2sKQ"
@@ -688,10 +676,10 @@
       },
       "properties": {
         "name": "Churrería La Modernita",
-        "comment": "Lugar amigable. Boa charla, bo café e churros",
         "category": "4",
         "ref_person": "Jaime e familia (Cuba)",
-        "layer_name": "3"
+        "layer_name": "3",
+        "description": "Lugar amigable. Boa charla, bo café e churros"
       },
       "id": "950AY"
     },
@@ -723,7 +711,6 @@
         "state": "Galicia",
         "county": "Lugo",
         "description": "Punto de reunión cultural e musical. Asisten moitos migrantes\n",
-        "comment": "Punto de reunión cultural e musical. Asisten moitos migrantes",
         "layer_name": "3"
       },
       "id": "fZ0qv"
@@ -895,7 +882,6 @@
         "category": "4",
         "name": "Foto Castro",
         "description": "Espazo amigable. Traballa con moitos migrantes (fotos carnet). Axudas xerais\n",
-        "comment": "Espazo amigable. Traballa con moitos migrantes (fotos carnet). Axudas xerais",
         "layer_name": 3
       },
       "id": "3bEK0"
@@ -925,12 +911,12 @@
         "street": "Avenida de Rodríguez Mourelo",
         "state": "Galicia",
         "county": "Lugo",
-        "comment": "Un instituto suponse que e un espazo seguro que protexe ao menores. Este IES en concreto realiza os cursos de galego para adultos",
         "category": "1",
         "_umap_options": {
           "color": "White"
         },
-        "layer_name": "3"
+        "layer_name": "3",
+        "description": "Un instituto suponse que e un espazo seguro que protexe ao menores. Este IES en concreto realiza os cursos de galego para adultos"
       },
       "id": "q8ad8"
     },
@@ -993,7 +979,6 @@
         "category": "1,2",
         "name": "Oxeito",
         "description": "Música e baile tradicional. Folclore. Un espazo para coñecer persoas locais dun xeito seguro e integrado\n",
-        "comment": "Música e baile tradicional. Folclore. Un espazo para coñecer persoas locais dun xeito seguro e integrado",
         "layer_name": "3"
       },
       "id": "1RPX4"
@@ -1024,8 +1009,8 @@
         "state": "Galicia",
         "county": "Lugo",
         "category": "5",
-        "comment": "Tenda solidaria sen ánimo de lucro. Chicos moi amables e danche cousas para amoblar de 2ª man",
-        "layer_name": "3"
+        "layer_name": "3",
+        "description": "Tenda solidaria sen ánimo de lucro. Chicos moi amables e danche cousas para amoblar de 2ª man"
       },
       "id": "1vhZy"
     },
@@ -1040,9 +1025,9 @@
       },
       "properties": {
         "name": "Rexistro Civil",
-        "comment": "No rexistro civil hai unha persoa funcionaria moi empática e que trata moi ben ás persoas que van alí con dudas",
         "category": "1,4",
-        "layer_name": "3"
+        "layer_name": "3",
+        "description": "No rexistro civil hai unha persoa funcionaria moi empática e que trata moi ben ás persoas que van alí con dudas"
       },
       "id": "ZYcjz"
     },
