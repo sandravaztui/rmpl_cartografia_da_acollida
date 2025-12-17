@@ -98,7 +98,6 @@
           43.011279
         ],
         "description": "Cada vez que entras, nada máis pasar a porta, danche a benvida. Todas as persoas que traballan na Rede saúdanche cun sorriso e é un lugar de acollida que rompe barreiras. O Museo son as persoas que traballan nel. Como Rosana, Nacho, Simón, Raquel, Ángeles, Estefanía, Encarna,...e moitas máis. Todas nós formamos parte da súa comunidade.",
-        "ref_person": "Encarna, Raquel, Ángeles, Matías.",
         "layer_name": "1"
       },
       "id": "vIUQr"
@@ -129,8 +128,8 @@
       },
       "properties": {
         "name": "Asociación Aliad Ultreia",
-        "ref_person": "Manuel",
-        "layer_name": "2"
+        "layer_name": "2",
+        "description": "A persoa de referencia é Manuel."
       },
       "id": "FIB0g"
     },
@@ -184,9 +183,8 @@
           -7.5574419,
           43.0100594
         ],
-        "description": "",
-        "layer_name": "2",
-        "ref_person": "Jorge"
+        "description": "A persoa de referencia é Jorge.",
+        "layer_name": "2"
       },
       "id": "IcjjF"
     },
@@ -208,8 +206,8 @@
           -7.5488762,
           43.0003381
         ],
-        "ref_person": "Fernando",
-        "layer_name": "2"
+        "layer_name": "2",
+        "description": "A persoa de referencia é Fernando."
       },
       "id": "XdGjt"
     },
@@ -239,8 +237,7 @@
         "street": "Avenida da Coruña",
         "state": "Galicia",
         "county": "Lugo",
-        "description": "Pizza e empanadas. Eduardo é o rexente e uruguaio\n",
-        "ref_person": "Eduardo",
+        "description": "Pizza e empanadas. Eduardo é o rexente e uruguaio.",
         "layer_name": "2"
       },
       "id": "SVkBj"
@@ -403,7 +400,7 @@
         "state": "Galicia",
         "county": "Lugo",
         "layer_name": "2",
-        "description": "En Galicia non se corta a carne como en Arxentina. Por iso, atopar unha carnicería en Lugo onde si se corta así fai da compra unha experiencia incluso entrañable"
+        "description": "En Galicia non se corta a carne como en Arxentina. Por iso, atopar unha carnicería en Lugo onde si se corta así fai da compra unha experiencia incluso entrañable."
       },
       "id": "uItck"
     },
@@ -419,8 +416,7 @@
       "properties": {
         "category": "1,2,4,5",
         "name": "Asociación de Inmigrantes y Retornados Rioplatenses",
-        "description": "Xunta de personaxes entrañables\n",
-        "ref_person": "Ana",
+        "description": "A persoa de referencia é Ana.",
         "layer_name": "2"
       },
       "id": "bK1vT"
@@ -436,9 +432,8 @@
       },
       "properties": {
         "name": "Albergue Roots & Boots Lugo - La Cervecería",
-        "description": "Hospedaxe de peregrinos e bar. Alejandra (xenial) o rexenta.",
+        "description": "Hospedaxe de peregrinos e bar. Alejandra, é unha persoa xenial e o rexenta.",
         "category": "4",
-        "ref_person": "Alejandra",
         "layer_name": "3"
       },
       "id": "ZjZFM"
@@ -476,7 +471,7 @@
         ],
         "category": "5",
         "layer_name": "3",
-        "description": "Ofrecen moita axuda ás persoas con discapacidades"
+        "description": "Ofrecen moita axuda ás persoas con discapacidades."
       },
       "id": "NvqYf"
     },
@@ -506,7 +501,7 @@
         "street": "Rúa San Roque",
         "state": "Galicia",
         "county": "Lugo",
-        "description": "Música e tempo de calidade das persoas que antenden no espazo\n",
+        "description": "Música e tempo de calidade das persoas que antenden no espazo.",
         "layer_name": "3"
       },
       "id": "S2sKQ"
@@ -677,9 +672,8 @@
       "properties": {
         "name": "Churrería La Modernita",
         "category": "4",
-        "ref_person": "Jaime e familia (Cuba)",
         "layer_name": "3",
-        "description": "Lugar amigable. Boa charla, bo café e churros"
+        "description": "Lugar amigable. Boa charla, bo café e churros."
       },
       "id": "950AY"
     },
@@ -710,7 +704,7 @@
         "street": "Rúa dos Paxariños",
         "state": "Galicia",
         "county": "Lugo",
-        "description": "Punto de reunión cultural e musical. Asisten moitos migrantes\n",
+        "description": "Punto de reunión cultural e musical. Asisten moitos migrantes.",
         "layer_name": "3"
       },
       "id": "fZ0qv"
@@ -881,7 +875,7 @@
       "properties": {
         "category": "4",
         "name": "Foto Castro",
-        "description": "Espazo amigable. Traballa con moitos migrantes (fotos carnet). Axudas xerais\n",
+        "description": "Espazo amigable. Traballa con moitos migrantes (fotos carnet). Axudas xerais.",
         "layer_name": 3
       },
       "id": "3bEK0"
@@ -916,7 +910,7 @@
           "color": "White"
         },
         "layer_name": "3",
-        "description": "Un instituto suponse que e un espazo seguro que protexe ao menores. Este IES en concreto realiza os cursos de galego para adultos"
+        "description": "Un instituto suponse que e un espazo seguro que protexe ao menores. Este IES en concreto realiza os cursos de galego para adultos."
       },
       "id": "q8ad8"
     },
@@ -978,7 +972,7 @@
       "properties": {
         "category": "1,2",
         "name": "Oxeito",
-        "description": "Música e baile tradicional. Folclore. Un espazo para coñecer persoas locais dun xeito seguro e integrado\n",
+        "description": "Música e baile tradicional. Folclore. Un espazo para coñecer persoas locais dun xeito seguro e integrado.\n",
         "layer_name": "3"
       },
       "id": "1RPX4"
@@ -1010,7 +1004,7 @@
         "county": "Lugo",
         "category": "5",
         "layer_name": "3",
-        "description": "Tenda solidaria sen ánimo de lucro. Chicos moi amables e danche cousas para amoblar de 2ª man"
+        "description": "Tenda solidaria sen ánimo de lucro. Chicos moi amables e danche cousas para amoblar de 2ª man."
       },
       "id": "1vhZy"
     },
@@ -1027,7 +1021,7 @@
         "name": "Rexistro Civil",
         "category": "1,4",
         "layer_name": "3",
-        "description": "No rexistro civil hai unha persoa funcionaria moi empática e que trata moi ben ás persoas que van alí con dudas"
+        "description": "No rexistro civil hai unha persoa funcionaria moi empática e que trata moi ben ás persoas que van alí con dudas."
       },
       "id": "ZYcjz"
     },
@@ -1062,7 +1056,7 @@
           -7.5599888,
           43.0125751
         ],
-        "description": "Rúa dos viños",
+        "description": "Rúa dos viños.",
         "layer_name": "3"
       },
       "id": "MJsp1"
