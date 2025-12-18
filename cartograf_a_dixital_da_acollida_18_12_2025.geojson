@@ -71,6 +71,23 @@
     {
       "type": "Feature",
       "geometry": {
+        "coordinates": [
+          -7.560305,
+          43.012412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "layer_name": "1",
+        "name": "Mercería Un Amor De Botón",
+        "description": "É unha mercería de toda a vida na que atopar todo o necesario para coser e bordar cun engadido especial: as persoas que traballan nela saben como se lle chama a cada cousa noutros países.  Como se xuntando palabras do galego e doutros idiomas crearan unha linguaxe univeral arredor da costura compartida.",
+        "itinerary_sequence": "4"
+      },
+      "id": "VklrH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -7.558923052012808,
@@ -110,23 +127,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -7.560305,
-          43.012412
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "layer_name": "1",
-        "name": "Mercería Un Amor De Botón",
-        "description": "É unha mercería de toda a vida na que atopar todo o necesario para coser e bordar cun engadido especial: as persoas que traballan nela saben como se lle chama a cada cousa noutros países.  Como se xuntando palabras do galego e doutros idiomas crearan unha linguaxe univeral arredor da costura compartida.",
-        "itinerary_sequence": "4"
-      },
-      "id": "VklrH"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           -7.567391,
           43.020425
         ],
@@ -138,6 +138,23 @@
         "description": "Unha asociación da cidade formada por xente acolledora, entre eles Manuel."
       },
       "id": "FIB0g"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -7.56424,
+          43.022318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "category": "1,2,4,5",
+        "name": "Asociación de Inmigrantes y Retornados Rioplatenses",
+        "description": "Hai quen a define como unha \"xunta de persoas entrañables\", pero, ademais de ser iso, Rioplatenses é acollida, acompañamento e coidado. Unha entidade humana no que todo o mundo, veña de onde veña, ten cabida e rede. Unha entidade que fai comunidade. A persoa de referencia é Ana.",
+        "layer_name": "2"
+      },
+      "id": "bK1vT"
     },
     {
       "type": "Feature",
@@ -247,6 +264,37 @@
         "layer_name": "2"
       },
       "id": "SVkBj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5488553,
+          43.0112472
+        ]
+      },
+      "properties": {
+        "category": "4",
+        "osm_type": "N",
+        "osm_id": 11920629998,
+        "osm_key": "shop",
+        "osm_value": "butcher",
+        "type": "house",
+        "postcode": "27002",
+        "countrycode": "ES",
+        "name": "Frebas",
+        "country": "Spain",
+        "city": "Lugo",
+        "district": "Fontiñas",
+        "locality": "Lugo",
+        "street": "Ronda das Fontiñas",
+        "state": "Galicia",
+        "county": "Lugo",
+        "layer_name": "2",
+        "description": "En Galicia non se corta a carne como en Arxentina. Por iso, atopar unha carnicería en Lugo onde si se corta así fai da compra unha experiencia incluso entrañable."
+      },
+      "id": "uItck"
     },
     {
       "type": "Feature",
@@ -379,54 +427,6 @@
         "description": "É un lugar no que atoparse as persoas que cosen e que teñen un nome distinto para cada cousa, porque aquí  todas poden entenderse."
       },
       "id": "rVzrM"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.5488553,
-          43.0112472
-        ]
-      },
-      "properties": {
-        "category": "4",
-        "osm_type": "N",
-        "osm_id": 11920629998,
-        "osm_key": "shop",
-        "osm_value": "butcher",
-        "type": "house",
-        "postcode": "27002",
-        "countrycode": "ES",
-        "name": "Frebas",
-        "country": "Spain",
-        "city": "Lugo",
-        "district": "Fontiñas",
-        "locality": "Lugo",
-        "street": "Ronda das Fontiñas",
-        "state": "Galicia",
-        "county": "Lugo",
-        "layer_name": "2",
-        "description": "En Galicia non se corta a carne como en Arxentina. Por iso, atopar unha carnicería en Lugo onde si se corta así fai da compra unha experiencia incluso entrañable."
-      },
-      "id": "uItck"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -7.56424,
-          43.022318
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "1,2,4,5",
-        "name": "Asociación de Inmigrantes y Retornados Rioplatenses",
-        "description": "A persoa de referencia é Ana.",
-        "layer_name": "2"
-      },
-      "id": "bK1vT"
     },
     {
       "type": "Feature",
